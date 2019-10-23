@@ -17,6 +17,7 @@ public class myprogram
     {
         // initialise instance variables
         x = 0;
+        // hi
     }
 
     /**
